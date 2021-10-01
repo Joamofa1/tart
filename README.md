@@ -1,10 +1,10 @@
-# Square Tart
+## Square Tart
 
 _Tracing Action Response Times!_
 
 **This library is not stable for usage beyond Square, the APIs and internals might change anytime.**
 
-Tart... ?
+Tart.... ?
 
 ## Table of contents
 
